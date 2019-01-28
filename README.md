@@ -19,6 +19,18 @@ Used Python3 instead of 2 in the server which caused some heavy issues in the ad
 
 kindly note that the private key is attached .. :)
 
+installed tools inside venv3
+pip install flask
+pip install sqlalchemy
+pip install requests
+pip install psycopg2
+pip install --upgrade oauth2client
+
+other tools:
+mcedit to edit files
+aptitude
+
+
 
 
 -----BEGIN RSA PRIVATE KEY-----
